@@ -1,5 +1,3 @@
-# Network-Measurment-and-Data-Analys
-Lab assignments for the Network Measurement and Data Analysis Lab course at Politecnico di Milano, focusing on traffic classification, optical QoT estimation, and network traffic prediction.
 # Network Measurement and Data Analysis Lab
 
 This repository contains three lab assignments from the *Network Measurement and Data Analysis Lab* course at Politecnico di Milano.  
